@@ -1,6 +1,6 @@
 {
     "name": "MySQL Dev Container",
     "dockerFile": "Dockerfile",
-    "extensions": ["ms-vscode.vscode-mysql"]
+    "extensions": ["ms-mssql.sql"]
   }
   
